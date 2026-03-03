@@ -450,6 +450,20 @@
       "skill": "obul-sybil",
       "description": "Unified search API combining Exa web search and xAI Grok capabilities",
       "homepage": "https://mavs-agent-army.fly.dev/api/sibyl"
+    },
+    {
+      "name": "geo",
+      "category": "infrastructure",
+      "skill": "obul-geo",
+      "description": "GEO visibility tracking across 5 LLMs — brand mentions, sentiment, citations, share of voice",
+      "homepage": "https://geo.x402endpoints.com"
+    },
+    {
+      "name": "quiver",
+      "category": "image-audio-video",
+      "skill": "obul-quiver",
+      "description": "AI SVG generation from text prompts and raster image vectorization via QuiverAI",
+      "homepage": "https://quiver.ai"
     }
   ]
 }

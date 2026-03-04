@@ -464,6 +464,13 @@
       "skill": "obul-quiver",
       "description": "AI SVG generation from text prompts and raster image vectorization via QuiverAI",
       "homepage": "https://quiver.ai"
+    },
+    {
+      "name": "bittensor",
+      "category": "infrastructure",
+      "skill": "obul-bittensor",
+      "description": "Access 13 Bittensor AI subnets (text, image, video, 3D, code, translation, time-series) through a single x402 gateway",
+      "homepage": "https://github.com/wizerai1111/swarmrails-bittensor"
     }
   ]
 }

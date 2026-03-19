@@ -455,8 +455,15 @@
       "name": "agentmail",
       "category": "infrastructure",
       "skill": "obul-agentmail",
-      "description": "API-first email platform for AI agents — programmatic inboxes, sending, receiving, threads, and webhooks",
+      "description": "API-first email platform for AI agents \u2014 programmatic inboxes, sending, receiving, threads, and webhooks",
       "homepage": "https://agentmail.to"
+    },
+    {
+      "name": "minimaxxing",
+      "category": "llm",
+      "skill": "obul-minimaxxing",
+      "description": "MiniMax M2.5 chat completions via x402 USDC micropayments on Base",
+      "homepage": "https://www.minimaxi.me"
     }
   ]
 }
